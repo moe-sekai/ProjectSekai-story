@@ -224,7 +224,7 @@ def migrate_area(repo_dir: Path, dry_run: bool, skip_split: bool):
                 count += 1
             else:
                 # 拆分合并文件为按 scenarioId 独立的文件
-                # 文件内容格式: "{id} {scenarioId}\n\n【地点】\n\n（登场角色：...）\n\n对话内容...\n\n\n"
+                # 文件内容格式: "{index} {id}:{scenarioId}\n\n【地点】\n\n（登场角色：...）\n\n对话内容...\n\n\n"
                 content = txt_file.read_text(encoding='utf-8')
                 
                 # 按三个连续换行符分段
@@ -235,9 +235,9 @@ def migrate_area(repo_dir: Path, dry_run: bool, skip_split: bool):
                     if not seg:
                         continue
                     
-                    # 提取第一行的 id 和 scenarioId
-                    # 格式: "{id} {scenarioId}"
-                    first_line_match = re.match(r'^(\d+)\s+(\S+)', seg)
+                    # 提取第一行的 index、id 和 scenarioId
+                    # 格式: "{index} {id}:{scenarioId}"
+                    first_line_match = re.match(r'^(\d+)\s+\d+:(\S+)', seg)
                     if first_line_match:
                         scenario_id = first_line_match.group(2)  # 使用 scenarioId 作为文件名
                         
