@@ -2,7 +2,7 @@
 迁移脚本：将 ProjectSekai-story 仓库的路径结构迁移到与前端路由一致的路径结构
 
 上游路径 → 目标路径映射：
-  story_{lang}/main/{seq} {name}/{scenarioId} {title}.txt → story/main/{seq}/{scenarioId}.txt
+  story_{lang}/main/{seq} {name}/{scenarioId} {title}.txt → story/unit/{seq}/{scenarioId}.txt
   story_{lang}/event/{id} {name} ({banner})/{storyId}-{epNo} {title}.txt → story/event/{id}/{epNo}.txt
   story_{lang}/card/{unit}_{chara}/{cardId} {rest}.txt → story/card/{cardId}.txt
   story_{lang}/area/talk_{category}.txt → story/area/{category}/{actionSetId}.txt (需拆分)
@@ -56,7 +56,7 @@ CHARA_NAME_TO_ID = {
 
 
 def migrate_main(repo_dir: Path, dry_run: bool):
-    """迁移主线剧情: story_{lang}/main/{seq} {name}/{scenarioId} {title}.txt → story/main/{seq}/{scenarioId}.txt
+    """迁移主线剧情: story_{lang}/main/{seq} {name}/{scenarioId} {title}.txt → story/unit/{seq}/{scenarioId}.txt
 
     合并策略：先迁移 jp，再迁移 cn（cn 覆盖 jp 同名文件，实现 cn 优先）
     """
@@ -83,7 +83,7 @@ def migrate_main(repo_dir: Path, dry_run: bool):
                 # 提取 scenarioId: "{scenarioId} {title}.txt"
                 scenario_id = txt_file.name.split(' ')[0]
                 
-                new_path = repo_dir / 'story' / 'main' / seq / f'{scenario_id}.txt'
+                new_path = repo_dir / 'story' / 'unit' / seq / f'{scenario_id}.txt'
                 if dry_run:
                     print(f'[DRY-RUN] [{lang}] {txt_file.relative_to(repo_dir)} → {new_path.relative_to(repo_dir)}')
                 else:
@@ -91,7 +91,7 @@ def migrate_main(repo_dir: Path, dry_run: bool):
                     shutil.copy2(str(txt_file), str(new_path))
                 count += 1
     
-    print(f'[DONE] Migrated {count} main files')
+    print(f'[DONE] Migrated {count} unit files')
 
 
 def migrate_event(repo_dir: Path, dry_run: bool):
