@@ -1,6 +1,4 @@
-sp48_コネクトライブ 4th ANNIVERSARY Brilliant Stage前日ストーリー
-
-<コネクトライブ 4th ANNIVERSARY Brilliant Stage前日ストーリー> story_connect_live_4th_anniversary_01
+sp48 コネクトライブ 4th ANNIVERSARY Brilliant Stage前日ストーリー (story_connect_live_4th_anniversary_01)
 
 (Character: 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩, 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥, 天馬司, 鳳えむ, 草薙寧々, 神代類, 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希, 初音ミク)
 
@@ -90,5 +88,3 @@ sp48_コネクトライブ 4th ANNIVERSARY Brilliant Stage前日ストーリー
 ミク: それじゃあ、会場で待ってるね！
 ミク: ばいばーい！
 (Black cut)
-
-

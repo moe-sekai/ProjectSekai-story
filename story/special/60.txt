@@ -1,6 +1,4 @@
-sp60_コネクトライブ わん！もあ！HAPPY TIME 前日ストーリー
-
-<コネクトライブ わん！もあ！HAPPY TIME 前日ストーリー> story_connect_live_wonmorehappytime_01
+sp60 コネクトライブ わん！もあ！HAPPY TIME 前日ストーリー (story_connect_live_wonmorehappytime_01)
 
 (Character: 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫, 天馬司, 鳳えむ, 草薙寧々, 神代類, 初音ミク, 鏡音リン, 鏡音レン)
 
@@ -58,5 +56,3 @@ sp60_コネクトライブ わん！もあ！HAPPY TIME 前日ストーリー
 レン: いいね！ オレ達もそうしようよ、リン
 リン: うん！　いつになるのかな？ すっごく楽しみ！
 (Black cut)
-
-

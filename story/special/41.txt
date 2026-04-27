@@ -1,6 +1,4 @@
-sp41_连线演唱会 RESONANCE BEATS!! 演出前一天剧情
-
-《连线演唱会 RESONANCE BEATS!! 演出前一天剧情》 story_connect_live_resonance-beats_01
+sp41 连线演唱会 RESONANCE BEATS!! 演出前一天剧情 (story_connect_live_resonance-beats_01)
 
 （登场角色：星乃一歌、天马咲希、望月穗波、日野森志步、小豆泽心羽、白石杏、东云彰人、青柳冬弥、初音未来）
 
@@ -53,5 +51,3 @@ sp41_连线演唱会 RESONANCE BEATS!! 演出前一天剧情
 冬弥：では、早速イベントの内容を詰めるか
 こはね・杏・彰人：『そうだね！』 『オッケー！』 『おう！』
 （黑屏转场）
-
-
