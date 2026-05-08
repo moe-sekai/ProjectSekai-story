@@ -1,0 +1,142 @@
+{
+  "event_id": 204,
+  "title_jp": "Stay solid, No fold",
+  "title_cn": "保持坚定，绝不退缩",
+  "outline_jp": "RUSH BEATSの予選に挑むVivid BAD SQUAD。セカンドステージでも会場を大いに盛り上げ、観客達からはダークホースとして実力が認められる。そんな中、こはね達はとある人物に声をかけられて……？",
+  "outline_cn": "Vivid BAD SQUAD挑战RUSH BEATS预选赛。他们在第二舞台也成功点燃了现场气氛，被观众们认可为实力强劲的黑马。在这样的情况下，心羽等人被某个人搭话了……？",
+  "summary_cn": "Vivid BAD SQUAD在RUSH BEATS预选赛中作为黑马成功晋级，赛后沉浸在喜悦中并与盟友Slade庆祝。然而，知名音乐制作人DG突然接触他们，并在录音室会面，分享了音乐行业的见解和个人经历。DG的过去与illys成员埃莱娜等人存在隔阂，他曾过度干预前组合Noverse的发展。会面中，Vivid BAD SQUAD体验了专业录音，并了解到DG与杏的父亲NAGI的过往关联。最后，在告别DG时，杏的父亲意外出现，为剧情带来新的转折。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "予選の結果は",
+      "title_cn": "预选的结果是",
+      "summary_cn": "Vivid BAD SQUAD在RUSH BEATS预选赛第二舞台的表演获得了巨大成功，现场观众反响热烈。在结果公布前，成员们既紧张又充满信心。很快，主持人宣布了本赛的晋级队伍，Vivid BAD SQUAD成功入选，成员们欣喜不已。随后，通过线上连线，其他会场的晋级结果也陆续公布，包括Embers和P.Z.等强队。当最后宣布Vivid BAD SQUAD作为黑马晋级时，现场再次沸腾。只剩下最后一个名额，所有人都屏息以待，期待着最后一支队伍——很可能是illys——的揭晓。",
+      "character_ids": [
+        9,
+        10,
+        11,
+        12,
+        134,
+        135,
+        175,
+        176,
+        177
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "予想外の申し出",
+      "title_cn": "意料之外的提议",
+      "summary_cn": "预选赛结束后，Vivid BAD SQUAD的成员们沉浸在晋级的喜悦中，并计划与盟友Slade举行庆功会。在离开会场时，他们受到了观众们的热烈称赞和鼓励，这让心羽深受感动，决心在正赛中展现更精彩的表演。然而，就在此时，DG组合的成员突然出现，让现场气氛瞬间变得紧张起来。",
+      "character_ids": [
+        9,
+        11,
+        10,
+        12,
+        177,
+        176,
+        175
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "それぞれの意見",
+      "title_cn": "各自的意见",
+      "summary_cn": "预选赛次日，Vivid BAD SQUAD与盟友Slade举行庆功会，共同庆祝illys、Embers和Vivid BAD SQUAD晋级正赛。成员们回顾了赛前的紧张和成功后的喜悦，杏特别感谢Slade在忙碌时期陪他们练习，认为这帮助了团队获胜。Slade成员则表示练习让他们也备受鼓舞，称赞Vivid BAD SQUAD的表演点燃了他们的热情。大家还讨论了观众的热烈反响，心羽提到有粉丝在会场外为他们加油。随后，心羽透露昨天DG组合的成员曾与她搭话，这一消息让埃莱娜十分惊讶并激动地追问原因。",
+      "character_ids": [
+        175,
+        176,
+        135,
+        134,
+        10,
+        11,
+        9,
+        12,
+        177
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "音楽への想い",
+      "title_cn": "对音乐的心意",
+      "summary_cn": "几天后，Vivid BAD SQUAD的成员们对DG组合这么快就约见他们感到意外。在街头的世界里，KAITO像往常一样来查看他们的练习，却发现他们今天另有安排。心羽解释他们约了人见面，KAITO得知对方是看过大赛的知名音乐制作人后非常兴奋，猜测对方可能想为他们制作音乐。彰人则认为这不太可能，因为他们已有阿兰的支持，而且DG制作的都是世界级艺术家。冬弥介绍DG是一位堪称“传奇音乐人”的人物，仅凭一支麦克风就在美国音乐界登顶，横扫各大主要赛事，以前卫的歌词和高超技巧获得了年轻人狂热支持。彰人感叹这确实是传奇，冬弥则表示还有其他原因让他获此称号。",
+      "character_ids": [
+        9,
+        10,
+        11,
+        12,
+        26,
+        177,
+        175
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "Eagle music",
+      "title_cn": "Eagle music",
+      "summary_cn": "在录音室，DG（道格拉斯）与Vivid BAD SQUAD会面，了解了他们组队是为了超越RADder，并正以赢得RUSH BEATS、登上世界级音乐节Lasting ECHO Fes为目标。DG称赞他们的志向和为此付出的努力，并提及自己也曾与RADder同台竞技，对NAGI（杏的父亲？）的才华表示惋惜与尊敬。他还指出杏唱歌时的气势与其父相似。心羽觉得DG并不吓人，反而显得温和。会面超时，DG意犹未尽，询问他们是否还有时间继续交谈，彰人表示今日有空。",
+      "character_ids": [
+        177,
+        9,
+        10,
+        12,
+        11,
+        175,
+        176
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "視線",
+      "title_cn": "视线",
+      "summary_cn": "在录音室，一位自称是A&R的工作人员认出了Vivid BAD SQUAD，并表示从COUNT X时期就开始关注他们，对他们预选赛的进步感到惊讶。冬弥提到他们曾与illys和Embers一起练习，这让工作人员和萨拉感到意外。心羽询问为何埃莱娜等人对DG抱有负面看法，萨拉解释DG曾因急于推广埃莱娜和丽贝卡（即前组合Noverse）的巨大才能而过度干预，将她们视为“商品”，导致双方产生隔阂。工作人员透露埃莱娜她们现已独立，并希望VBS能帮忙牵线，让illys重回大众视野。",
+      "character_ids": [
+        9,
+        12,
+        10,
+        11,
+        175,
+        26,
+        177
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "私達の進み方",
+      "title_cn": "我们的前进方式",
+      "summary_cn": "道格拉斯分享了自己早期作为音乐人时，被一位艺术家用“这还不如去臭水沟里唱”的刻薄话语评价的经历，让心羽和杏感到震惊与好笑。数小时后，在Eagle music公司前，道格拉斯感谢Vivid BAD SQUAD抽空前来，并询问他们是否享受这次会面。冬弥表示学到了很多关于宣传幕后和音乐行业的知识，彰人则感谢能在专业录音室唱歌的宝贵经验。杏兴奋地指出在录音室唱歌与舞台表演是不同的乐趣，能更专注于声音本身，并打算向Slade炫耀，但被彰人劝阻。道格拉斯确认了Slade就是Embers，冬弥提到Slade成员们对这次会面非常羡慕。",
+      "character_ids": [
+        177,
+        9,
+        12,
+        11,
+        10,
+        175,
+        176
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "再会、そして",
+      "title_cn": "重逢，然后",
+      "summary_cn": "在Eagle music公司前，心羽意识到与道格拉斯交谈了很久，时间已晚。杏也发现已经到了晚饭时间。道格拉斯开玩笑说如果现在邀请他们吃晚餐，恐怕会聊到天亮。他感谢Vivid BAD SQUAD，表示今天因为他们的到来而变得非常愉快，并叮嘱他们路上小心。就在此时，一个熟悉的声音突然出现，杏惊讶地发现她的父亲竟然出现在这里，并疑惑地询问他为何会在此地。",
+      "character_ids": [
+        9,
+        10,
+        177,
+        90,
+        36,
+        11,
+        12
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_08.webp"
+    }
+  ]
+}
